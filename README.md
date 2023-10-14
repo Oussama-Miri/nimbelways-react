@@ -26,6 +26,11 @@ Installation des dépendances : Ouvrez un terminal et naviguez jusqu'à la racin
 #Démarrer l'application : 
 Toujours depuis la racine du projet, exécutez la commande suivante :
 
-* npm start
+* npm run start
+
+#Tester L'application :
+Toujours dans la racine du projet, exécutez la commande suivante : 
+ 
+* npm run test
 
 L'application sera accessible à http://localhost:3000/ par défaut.
