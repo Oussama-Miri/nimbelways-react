@@ -1,8 +1,8 @@
-#Calculateur de Différence de Dates
-#Description
+# Calculateur de Différence de Dates
+# Description
 Ce projet est une simple application React qui permet de calculer la différence en jours entre deux dates. L'utilisateur peut entrer une date de début et une date de fin, et l'application retourne le nombre de jours entre ces deux dates.
 
-#Structure du Projet
+# Structure du Projet
 - src/components: Contient tous les composants React
 - CalculateButton.tsx: Bouton pour déclencher le calcul
 - DateInput.tsx: Champ pour saisir une date
@@ -15,20 +15,20 @@ Ce projet est une simple application React qui permet de calculer la différence
 - useDateDifferenceCalculator.test.ts: Test du hook useDateDifferenceCalculator
 - src/App.tsx: Point d'entrée de l'application
 - package.json: Liste des dépendances et scripts
-#Dépendances Utilisées
+# Dépendances Utilisées
 * React
 * TypeScript
 * @testing-library/react-hooks pour tester les hooks
-#Comment Démarrer l'Application
+# Comment Démarrer l'Application
 Installation des dépendances : Ouvrez un terminal et naviguez jusqu'à la racine du projet. Exécutez ensuite la commande suivante :
 * npm install
 
-#Démarrer l'application : 
+# Démarrer l'application : 
 Toujours depuis la racine du projet, exécutez la commande suivante :
 
 * npm run start
 
-#Tester L'application :
+# Tester L'application :
 Toujours dans la racine du projet, exécutez la commande suivante : 
  
 * npm run test
